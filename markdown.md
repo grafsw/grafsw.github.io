@@ -25,12 +25,8 @@ function hello(){
 
 # プラントUML
 
-<details>
-<summary>
-
-![](/img/markdown/ts.png)
-
-</summary>
+# プラントUML
+<details><summary><img src="/img/markdown/ts.png" alt="" /></summary>
 
 ```puml
 @startuml ts
