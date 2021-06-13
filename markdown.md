@@ -41,5 +41,8 @@ Alice -> Bob: Another authentication Request
 Alice <-- Bob: another authentication Response
 @enduml
 ```
+<<<<<<< HEAD
 
 </details>
+=======
+>>>>>>> a58b124122587723ac5cab34a6d0667128c8fb90
