@@ -22,3 +22,24 @@ function hello(){
 ```
 
 ***
+
+# プラントUML
+
+<details>
+<summary>
+
+![](/img/markdown/ts.png)
+
+</summary>
+
+```puml
+@startuml ts
+Alice -> Bob: Authentication Request
+Bob --> Alice: Authentication Response
+
+Alice -> Bob: Another authentication Request
+Alice <-- Bob: another authentication Response
+@enduml
+```
+
+</details>
